@@ -68,7 +68,7 @@ To get started, simply follow the provided commands to update and upgrade your T
 
 ## All Commands in Single Line
 ```
-apt update && apt upgrade && pkg install git && git clone https://github.com/crone-hackx/TERMUX-PLUS && cd TermuX-Custom && chmod +x * && bash setup.sh 
+apt update && apt upgrade && pkg install git && git clone https://github.com/crone-hackx/TERMUX-PLUS && cd TERMUX-PLUS && chmod +x * && bash setup.sh 
 ```
 
 1. You may not use the contents of this repository for illegal or unethical activities.
