@@ -31,24 +31,6 @@ You can install termux from F-Droid. <br />
 
 > But, I strongly recommend you to install Termux from **F-Droid** as it is the stable version of Termux
 
-## Screenshorts After installing TermuX-PluS
-### Login Screen
-![login](.img/IMG_20240307_234826.jpg)
-### Booting Screen
-![sound-effect](.img/IMG_20240306_233903.jpg)
-### Termux Terminal
-![termux-terminal](.img/IMG_20240307_234741.jpg)
-
-## Features Of TermuX-PluS
-- [x] Login Screen
-- [x] Login Sound Effect
-- [x] Customizable Shell Name
-- [x] Interactive Terminal
-- [X] Easy To Use
-- [X] Easy To Install
-- [X] In Terminal Clock
-- [X] Looks OverPowered
-> These features enhance the TermuX interface, providing users with a personalized and dynamic experience for their TermuX sessions.
 
 
 ## Getting Started
