@@ -53,7 +53,7 @@ To get started, simply follow the provided commands to update and upgrade your T
 
 [-] Navigate to the cloned repository directory:
     ```
-    cd TermuX-Custom
+    cd TERMUX-PLUS
     ```
 
 [-] Add execute permissions to all files in the directory:
