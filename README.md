@@ -1,4 +1,4 @@
-<h1 align="center">TermuX-Custom</h1>
+<h1 align="center">TermuX-PluS</h1>
 
 <p align="center"> 
   <img src="https://img.shields.io/github/stars/Cod3r-Ak/TermuX-Custom?style=for-the-badge&color=orange">
@@ -31,7 +31,7 @@ You can install termux from F-Droid. <br />
 
 > But, I strongly recommend you to install Termux from **F-Droid** as it is the stable version of Termux
 
-## Screenshorts After installing TermuX-Custom
+## Screenshorts After installing TermuX-PluS
 ### Login Screen
 ![login](.img/IMG_20240307_234826.jpg)
 ### Booting Screen
@@ -39,7 +39,7 @@ You can install termux from F-Droid. <br />
 ### Termux Terminal
 ![termux-terminal](.img/IMG_20240307_234741.jpg)
 
-## Features Of TermuX-Custom
+## Features Of TermuX-PluS
 - [x] Login Screen
 - [x] Login Sound Effect
 - [x] Customizable Shell Name
@@ -66,7 +66,7 @@ To get started, simply follow the provided commands to update and upgrade your T
     
 [-] Clone the TermuX-Custom6 repository in your Termux:
     ```
-    git clone https://github.com/Cod3r-Ak/TermuX-Custom
+    git clone https://github.com/crone-hackx/TERMUX-PLUS
     ```
 
 [-] Navigate to the cloned repository directory:
@@ -86,14 +86,9 @@ To get started, simply follow the provided commands to update and upgrade your T
 
 ## All Commands in Single Line
 ```
-apt update && apt upgrade && pkg install git && git clone https://github.com/Cod3r-Ak/TermuX-Custom && cd TermuX-Custom && chmod +x * && bash setup.sh 
+apt update && apt upgrade && pkg install git && git clone https://github.com/crone-hackx/TERMUX-PLUS && cd TermuX-Custom && chmod +x * && bash setup.sh 
 ```
-## Copyright Notice
 
-All content, including but not limited to code, documentation, and assets, within the TermuX Custom repository is protected under copyright law. This repository, authored by Akshat [Cod3r-Ak], is provided for educational purposes only. It does not promote or condone any unauthorized access, modification, or misuse of computer systems or networks.
-
-You are granted the right to use, modify, and distribute the contents of this repository for educational and non-commercial purposes. However, you must adhere to the following conditions:
-```
 1. You may not use the contents of this repository for illegal or unethical activities.
 2. You may not misrepresent the origin or authorship of the contents of this repository.
 3. You may not hold the author or contributors liable for any damages or legal issues arising from the use or misuse of the contents of this repository.
